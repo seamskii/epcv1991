@@ -1,6 +1,4 @@
 import React from "react";
-import EnglishPage from "./components/EnglishPage";
-import HebrewPage from "./components/HebrewPage";
 import{BrowserRouter as Router,Route,Switch} from "react-router-dom";
 import './App.css';
 // import React from "react";
